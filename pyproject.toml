@@ -1,0 +1,13 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Christopher Mochizuki", email = "chrism@alleninstitute.org"},
+]
+dependencies = [
+    "pandera>=0.14.5",
+]
+requires-python = ">=3.9"
+license = {text = "MIT"}
